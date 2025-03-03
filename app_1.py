@@ -28,6 +28,10 @@ st.markdown('<style>div.block-container{padding-top:1rem;}</style>', unsafe_allo
 #     # st.image(image, width=100)
 # import image and set margin as well
 
+st.write("")
+st.write("")
+st.write("")
+st.write("")
 image = Image.open('MoVies.png')
 st.image(image, use_column_width=True)
 # # image margin set
